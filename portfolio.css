@@ -6,6 +6,9 @@
 body{
     overflow-x: hidden;
 }
+nav{
+    box-shadow: 1px 1px 5px rgb(169, 162, 162);
+}
 #hello h2{
     color: black;
     display: flex;
@@ -96,4 +99,13 @@ body{
     width: 900px;
     margin-top: -550px;
     margin-left: 570px;
+}
+#contact iframe{
+    margin-top: 400px;
+    margin-bottom: 50px;
+}
+#FORM{
+    width: 500PX;
+    margin-top: -500px;
+    margin-left:800px;
 }
