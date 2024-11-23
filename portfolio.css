@@ -3,3 +3,34 @@
     font-weight: 500px;
     text-transform: uppercase;
 }
+#hello h2{
+    color: black;
+    display: flex;
+    font-size: 50px;
+    margin-top: -500px;
+    margin-left: 150px;
+}
+#hello h2::after{
+    content: "";
+    width: 300px;
+    height: 3px;
+    background-color: black;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+#HOME img{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+#iam h1{
+    color: black;
+    font-size: 70px;
+    margin-top: -430px;
+    margin-left: 150px;
+}
+#web h1{
+    color: black;
+    font-size: 30px;
+    margin-top: -330px;
+    margin-left: 150px;
+}
